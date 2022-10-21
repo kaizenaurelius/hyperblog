@@ -1,0 +1,66 @@
+[33mcommit cca473fd7f9295be6a319c2c49161fa74797616d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Tob Stoic <rafaeltobass@gmail.com>
+Date:   Wed Oct 12 07:18:24 2022 -0500
+
+    Commit al master del blogspot
+
+ .vscode/settings.json |  3 [32m+++[m
+ blogpost.html         | 25 [32m++++++++++++++++++[m[31m-------[m
+ css/style.css         | 10 [32m+++++++++[m[31m-[m
+ 3 files changed, 30 insertions(+), 8 deletions(-)
+
+[33mcommit 4eccff9485f3000aa133711118ebef03adda337f[m
+Author: Tob Stoic <rafaeltobass@gmail.com>
+Date:   Wed Oct 5 17:13:45 2022 -0500
+
+    css y html agregado
+
+ Untitled-1.txt |  2 [32m+[m[31m-[m
+ blogpost.html  | 20 [32m++++++++++++++++++++[m
+ css/style.css  |  5 [32m+++++[m
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+
+[33mcommit 908993c86c2a67d5792951c5a1c0eaea0d08fc11[m
+Author: Tob Stoic <rafaeltobass@gmail.com>
+Date:   Thu Sep 29 08:19:07 2022 -0500
+
+    Correccion de puntos, cosas que aprende
+
+ Untitled-1.txt | 4 [32m++[m[31m--[m
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit 260f89a5be49d4a9891b8aa2e1deb70d92b7e575[m
+Author: Tob Stoic <rafaeltobass@gmail.com>
+Date:   Thu Sep 29 08:10:50 2022 -0500
+
+    Agregamos ocupacion actual
+
+ Untitled-1.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit 0faa9829c2ee978d5fa489ef01b060617ec34fb2[m
+Author: Tob Stoic <rafaeltobass@gmail.com>
+Date:   Thu Sep 29 08:08:28 2022 -0500
+
+    un poco acerda de mi personalidad
+
+ Untitled-1.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit bbde07fa4f8ee041d4f5ba6704cefbe89d0edb6e[m
+Author: Tob Stoic <rafaeltobass@gmail.com>
+Date:   Wed Sep 28 18:30:00 2022 -0500
+
+    agregué detalles a la bio
+
+ Untitled-1.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 158c7c0e3ff62c05f234ab0cc8b79c611b54da05[m
+Author: Tob Stoic <rafaeltobass@gmail.com>
+Date:   Wed Sep 28 18:20:59 2022 -0500
+
+    este es el primer commit
+
+ Untitled-1.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
