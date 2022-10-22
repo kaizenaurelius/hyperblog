@@ -1,6 +1,10 @@
 body{
     text-align: center;
+<<<<<<< HEAD
     color: hsl(229, 100%, 54%);
+=======
+    color: hsl(170, 80%, 76%);
+>>>>>>> header
     font-family: "Arial";
 
 }
